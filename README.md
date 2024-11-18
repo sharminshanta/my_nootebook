@@ -1,2 +1,2 @@
-# my_nootebook
+# my_notebook
 Simple Django Application
